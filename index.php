@@ -17,7 +17,7 @@
     <ul class="nav navbar-nav">
       <li class="active"><a href="index.php">INDEX</a></li>
       <li><a href="vistas/nosotros.php">NOSOTROS</a></li>
-      <li><a href="vistas/servicios.php">SERVICIOS</a></li>
+      <li><a href="vistas/servicios.php">PRODUCTOS</a></li>
       <li><a href="vistas/contacto.php">CONTACTO</a></li>
     </ul>
   </div>
