@@ -37,11 +37,10 @@
  <div class="section" style="padding: 5% 0%;">
       <div class="container">
         <div class="row">
-          <div class="col-md-6">
-            <img src="img/hilos.jpg"
-            class="img-responsive">
+          <div class="col-sm-6 col-md-6">
+            <img src="img/hilos.jpg" class="img-responsive img-ind">
           </div>
-          <div class="col-md-6">
+          <div class="col-sm-6 col-md-6">
             <h1 class="tit">HILOS</h1>
             <p class="texto">TENEMOS TODOS LOS HILOS DE COSER Y BORDAR, Y LOS TENEMOS JUSTO CUANDO USTED LOS NECESITA.</p>
           </div>
@@ -51,13 +50,12 @@
     <div class="section" style="padding: 0px 0px 5% 0px;">
       <div class="container">
         <div class="row">
-          <div class="col-md-6">
+          <div class="col-sm-6 col-md-6">
             <h1 class="tit">TELAS</h1>
             <p class="texto">Telas para la confección de ropa casual, sport, vestidos de fiesta, casimires y todo lo que necesitas de telas para disfraces. Tul, Manta, Pellón, Yute, Satín, terciopelo, organza y chifón en todos los colores y al mejor precio. Sumérgete en nuestra amplia variedad de texturas y estampados.</p>
           </div>
-          <div class="col-md-6">
-            <img src="img/telas.jpg"
-            class="img-responsive">
+          <div class="col-sm-6 col-md-6">
+            <img src="img/telas.jpg" class="img-responsive">
           </div>
         </div>
       </div>

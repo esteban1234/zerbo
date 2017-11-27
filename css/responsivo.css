@@ -1,0 +1,293 @@
+@media screen and (max-width: 480px){
+	.banner, .fondo, .bannerc, .fondoc, .banners, .fondos, .bannern, .fondon{
+		height: 100%;
+	}
+
+	.fondo, .fondos, .fondon{
+		padding-bottom: 20px;
+	}
+
+	.logo{
+		border: 2px solid yellow;
+		width: 10%;
+	}
+
+	.textbh, .textbc, .textbhn{
+		font-size: 20px;
+		margin-top: 0px;
+		text-align: justify;
+	}
+
+	.tit{
+		margin-top: 5px;
+		font-size: 28px;
+		font-weight: bold;
+		text-align: center;
+	}
+
+	.texto{
+		text-align: justify;
+		font-size: 17px;
+		font-style: arial;
+
+	}
+
+	.img-tt img{
+		margin: auto;
+	}
+/******************DISEÑO NOSOTROS*******************/
+	.tit-qs{
+		font-size: 25px;
+		text-align: center;
+	}
+
+	.h3-sub{
+		text-align: center;
+		font-size: 18px;
+	}
+
+	.texto2,.textom, .texto1{
+		text-align: justify;
+	}
+
+/***************END DISEÑO NOSOTROS******************/
+
+/******************DISEÑO SERVICIOS*******************/
+	.subtit{
+		text-align: justify;
+		width: 90%;
+		font-size: 16px;
+	}
+
+	.uno, .dos, .tres, .cuatro,
+	.cinco, .seis{
+		width: 100%;
+	}
+/***************END DISEÑO SERVICIOS******************/
+
+/******************DISEÑO CONTACTO*******************/
+	.tit-fc{
+		font-size: 25px;
+		font-weight: bold;
+	}
+/***************END DISEÑO CONTACTO******************/
+
+/******************DISEÑO PIE*******************/
+	footer{
+		height: 100%;
+	}
+
+	footer p{
+		margin-bottom: 10px;
+		font-size: 16px; 
+	}
+/***************END DISEÑO PIE******************/
+}
+
+@media screen and (max-width: 599px) and (min-width: 481px) {
+	.banner, .fondo, .bannerc, .fondoc, .banners, .fondos, .bannern, .fondon{
+		height: 100%;
+	}
+
+	.fondo, .fondos, .fondon{
+		padding-bottom: 20px;
+	}
+
+	.logo{
+		border: 2px solid yellow;
+		width: 10%;
+	}
+
+	.textbh, .textbc, .textbhn{
+		font-size: 20px;
+		margin-top: 50px;
+		text-align: justify;
+	}
+
+	.tit{
+		margin-top: 5px;
+		font-size: 28px;
+		font-weight: bold;
+		text-align: center;
+	}
+
+	.texto{
+		text-align: justify;
+		font-size: 17px;
+		font-style: arial;
+
+	}
+
+	.img-tt img{
+		margin: auto;
+	}
+/******************DISEÑO NOSOTROS*******************/
+	.tit-qs{
+		font-size: 25px;
+		text-align: center;
+	}
+
+	.h3-sub{
+		text-align: center;
+		font-size: 18px;
+	}
+
+	.texto2,.textom, .texto1{
+		text-align: justify;
+	}
+
+/***************END DISEÑO NOSOTROS******************/
+
+/******************DISEÑO SERVICIOS*******************/
+	.subtit{
+		text-align: justify;
+		width: 90%;
+		font-size: 16px;
+	}
+
+	.uno, .dos, .tres, .cuatro,
+	.cinco, .seis{
+		width: 100%;
+	}
+/***************END DISEÑO SERVICIOS******************/
+
+/******************DISEÑO CONTACTO*******************/
+	.tit-fc{
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.submit-btn{
+		/*border: 2px solid yellow;*/
+		width: 50%;
+	}
+
+	.bnt-contacto{
+		text-align: center;
+	}
+/***************END DISEÑO CONTACTO******************/
+
+/******************DISEÑO PIE*******************/
+	footer{
+		height: 100%;
+	}
+
+	footer p{
+		margin-bottom: 10px;
+		font-size: 16px; 
+	}
+/***************END DISEÑO PIE******************/
+}
+
+@media screen and (max-width: 799px) and (min-width: 600px) {
+	.banner, .fondo, .bannerc, .fondoc, .banners, .fondos, .bannern, .fondon{
+		height: 100%;
+	}
+
+	.fondo, .fondos, .fondon{
+		padding-bottom: 20px;
+	}
+
+	.logo{
+		border: 2px solid yellow;
+		width: 10%;
+	}
+
+	.textbh, .textbc, .textbhn{
+		font-size: 30px;
+		margin-top: 50px;
+		text-align: justify;
+	}
+
+	.tit{
+		margin-top: 5px;
+		font-size: 28px;
+		font-weight: bold;
+		text-align: center;
+	}
+
+	.texto{
+		text-align: justify;
+		font-size: 17px;
+		font-style: arial;
+
+	}
+
+	.img-tt img, .img-ind{
+		margin: auto;
+	}
+
+/******************DISEÑO NOSOTROS*******************/
+	.tit-qs{
+		font-size: 25px;
+		text-align: center;
+	}
+
+	.h3-sub{
+		text-align: center;
+		font-size: 18px;
+	}
+
+	.texto2,.textom, .texto1{
+		text-align: justify;
+	}
+
+/***************END DISEÑO NOSOTROS******************/
+
+/******************DISEÑO SERVICIOS*******************/
+	.subtit{
+		text-align: justify;
+		width: 90%;
+		font-size: 16px;
+	}
+
+	.uno, .dos, .tres, .cuatro,
+	.cinco, .seis{
+		width: 100%;
+	}
+/***************END DISEÑO SERVICIOS******************/
+
+/******************DISEÑO CONTACTO*******************/
+	.tit-fc{
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.submit-btn{
+		/*border: 2px solid yellow;*/
+		width: 50%;
+	}
+
+	.bnt-contacto{
+		text-align: center;
+	}
+
+	.submit-btn{
+		width: 40%;
+	}
+/***************END DISEÑO CONTACTO******************/
+
+/******************DISEÑO PIE*******************/
+	footer{
+		height: 100%;
+	}
+
+	footer p{
+		margin-bottom: 10px;
+		font-size: 16px; 
+	}
+/***************END DISEÑO PIE******************/
+}
+
+@media screen and (max-width: 1023px) and (min-width: 800px) {
+	.uno h1, .dos h1, .tres h1, .cuatro h1,
+	.cinco h1, .seis h1{
+		font-size: 25px;
+	}
+}
+
+@media screen and (max-width: 1280px) and (min-width: 1024px) {      /* mac*/
+}
+@media screen and (max-width: 1366px) and (min-width: 1024px) { }
+
+@media screen and (min-width: 1367px) { }

@@ -34,7 +34,7 @@
   </div>
 </div>
 
-<h1 class="text-center" style="margin-top: 5%;">PRODUCTOS</h1>
+<h1 class="text-center tit-p" style="margin-top: 5%;">PRODUCTOS</h1>
 <p class="subtit">En MANUFACTURERA TEXTILES ZERBO buscamos que tengas todo en un mismo lugar, por esto te invitamos a conocer los servicios que ofrecemos en nuestras tiendas.</p>
 
 <div class="section" style="padding: 5% 0px; background-color: #eeeeee;">

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <?php include 'encabezado2.php' ?>
 <body>
 	
@@ -38,7 +38,7 @@
 <div class="section" style="padding: 5% 0%;">
   <div class="container">
 <div class="row text-center">
-        <div class="col-md-3">
+        <div class="col-sm-6 col-md-3">
           <div class="contact-detail-box">
             <i class="fa fa-envelope fa-3x text-colored"></i>
             <h4>CORREO</h4> 
@@ -46,7 +46,7 @@
           </div>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-sm-6 col-md-3">
           <div class="contact-detail-box">
             <i class="fa fa-map-marker fa-3x text-colored"></i>
             <h4>DIRECCION</h4>
@@ -59,7 +59,7 @@
           </div>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-sm-6 col-md-3">
           <div class="contact-detail-box">
             <i class="fa fa-clock-o fa-3x text-colored"></i>
             <h4>HORARIO</h4>
@@ -67,7 +67,7 @@
           </div>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-sm-6 col-md-3">
           <div class="contact-detail-box">
             <i class="fa fa-phone fa-3x text-colored"></i>
             <h4>TELEFONO</h4>
@@ -80,40 +80,42 @@
 
   <div class="container">
   <div class="row">
-      <h1 style="text-align:center">Formulario de contacto</h1>
+      <h1 class="tit-fc" style="text-align:center">Formulario de contacto</h1>
   </div>
   <div class="row">
       <h4 style="text-align:center">Por favor déjenos su mensaje y en breve nos comunicaremos con usted.</h4>
   </div>
-  <div class="row input-container">
+  <form class="row input-container">
       <div class="col-xs-12">
         <div class="styled-input wide">
-          <input type="text" required />
+          <input type="text" id="txtNOMBRE" required />
           <label>Nombre completo</label> 
         </div>
       </div>
-      <div class="col-md-6 col-sm-12">
+      <div class="col-sm-6 col-md-6 col-sm-12">
         <div class="styled-input">
-          <input type="text" required />
+          <input type="text" id="txtCORREO" required />
           <label>Email</label> 
         </div>
       </div>
-      <div class="col-md-6 col-sm-12">
+      <div class="col-sm-6 col-md-6 col-sm-12">
         <div class="styled-input" style="float:right;">
-          <input type="text" required />
+          <input type="text" id="txtTELEFONO" required />
           <label>Numero teléfonico</label> 
         </div>
       </div>
       <div class="col-xs-12">
         <div class="styled-input wide">
-          <textarea required></textarea>
+          <textarea id="txtCOMENTARIO" required></textarea>
           <label>Comentario</label>
         </div>
       </div>
-      <div class="col-xs-12">
-        <div class="btn-lrg submit-btn">Enviar Mensaje</div>
+      
+      <div class="col-xs-12 bnt-contacto">
+        <div id="_AJAX_PRE_"></div>
+        <div class="btn-lrg submit-btn" onclick="sendCORREO()">Enviar Mensaje</div>
       </div>
-  </div>
+  </form>
 </div>
 
 
